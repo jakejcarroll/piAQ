@@ -18,7 +18,7 @@ from enviroplus import gas
 from losantmqtt import Device
 
 # construct losant device
-device = Device("5e11e6330ac5cc0007fc1265", "0ac1cea1-a88d-4a4f-a209-55411611f9d9", "b5196aaacf877f1$f877f153a86c08084c00cc85cac70402452d6e9f466e3b63bb7b671")
+device = Device("5e11e6330ac5cc0007fc1265", "0ac1cea1-a88d-4a4f-a209-55411611f9d9", "b5196aaacf877f153a86c08084c00cc85cac70402452d6e9f466e3b63bb7b671")
 
 pms5003 = PMS5003()
 
